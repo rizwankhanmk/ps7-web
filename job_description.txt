@@ -1,0 +1,13 @@
+# Marketing Analyst · Lumen Retail Pte Ltd (made up for this exercise)
+
+Lumen Retail runs 40 stores and an online shop in Singapore and Malaysia.
+
+**Must have (all three)**
+1. At least 2 years of work in marketing analytics or a similar analytics role.
+2. SQL or Python used at work.
+3. Designed or analysed A/B tests at work.
+
+**Nice to have**
+- Dashboards in Tableau or Power BI.
+- Presented findings to senior stakeholders.
+- Retail or e-commerce experience.
